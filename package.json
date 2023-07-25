@@ -13,9 +13,9 @@
     "url": "http://aozm.com"
   },
   "scripts": {
-    "dev": "owel",
-    "build": "next owel",
-    "start": "next owel",
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
     "post-build": "next-sitemap --config next-sitemap.config.js",
     "export": "next build && next-sitemap --config next-sitemap.config.js && next export",
     "bundle-report": "ANALYZE=true yarn build"
