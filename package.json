@@ -13,9 +13,9 @@
     "url": "http://aozm.com"
   },
   "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start",
+    "dev": "owel",
+    "build": "next owel",
+    "start": "next owel",
     "post-build": "next-sitemap --config next-sitemap.config.js",
     "export": "next build && next-sitemap --config next-sitemap.config.js && next export",
     "bundle-report": "ANALYZE=true yarn build"
@@ -76,6 +76,6 @@
   },
   "bugs": {
     "url": "https://github.com/tangly/NotionNext/issues",
-    "email": "tlyong1992@hotmail.com"
+    "email": "vp@owel.cn"
   }
 }
