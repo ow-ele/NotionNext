@@ -1,16 +1,16 @@
 {
-  "name": "notion-next",
+  "name": "OrangeWare",
   "version": "4.0.5",
-  "homepage": "https://github.com/tangly1024/NotionNext.git",
+  "homepage": "https://aozm.com",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/tangly1024/NotionNext.git"
+    "url": "https://aozm.com"
   },
   "author": {
     "name": "tangly",
-    "email": "mail@tangly1024.com",
-    "url": "http://tangly1024.com"
+    "email": "mail@aozm.com",
+    "url": "http://aozm.com"
   },
   "scripts": {
     "dev": "next dev",
